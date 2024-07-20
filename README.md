@@ -3,4 +3,9 @@
 
 🧹 Implemented data preprocessing techniques including handling missing values, encoding categorical variables, and feature scaling.
 
+📊 Analyzed feature importance to identify key factors influencing loan approval decisions.
+
+📈 Created visualizations to present model results and insights to non-technical stakeholders
+
+
 🛠️ Technologies: Python, scikit-learn, pandas, numpy
